@@ -1,0 +1,6 @@
+{
+  "name": "Cozy Corner — Hot & Cold Coffee & Softea Chocklet Cafe",
+  "description": "Order handcrafted hot coffee, artisanal cold brews, and signature Softea Chocklet drinks online from Cozy Corner with instant loyalty rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
